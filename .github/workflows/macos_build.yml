@@ -30,4 +30,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: macOS-app
-        path: dist/ig_multi_profile_with_delete
+        path: dist/ig_multi_profile_with_delete_final
